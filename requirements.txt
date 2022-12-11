@@ -1,0 +1,8 @@
+pandas
+numpy
+spacy
+sklearn
+joblib
+flask
+nltk
+python -m spacy download en_core_web_sm
