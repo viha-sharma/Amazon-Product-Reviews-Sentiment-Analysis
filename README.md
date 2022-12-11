@@ -26,11 +26,16 @@ The traditional manual process of Amazon product reviews is time-consuming and i
 
 I will be classifying Amazon customer reviews from the source files mentioned below, into 3 categories of positive, negative and neutral. The techniques used to solve this problem involve Text Classification and Time Series Analysis.  
 
-An automated system was developed to analyze and monitor an enormous number of reviews. By monitoring the entire review history of products, we analyzed the tone, language, keywords, and trends over time to provide valuable insights that increase the success rate of existing and new products as well as marketing campaigns. 
+An automated system was developed to analyze and monitor an enormous number of reviews. By monitoring the entire review history of products, we analyzed the tone, language, keywords, and trends over time to provide valuable insights that increase the success rate of existing and new products as well as marketing campaigns.
+
+![image](https://user-images.githubusercontent.com/106082126/206913002-a6c8826a-0839-43fc-a5db-9113ce0efa28.png)
+
 
 *Sentiment Analysis* is a technique used in Natural Language Processing that converts unstructured text into data that can be analysed. It is an emerging tool that helps businesses differentiate and categorize opinions about their products, services and brand image.
 
 *Time Series Analysis* helps in highlighting trends to forecast sentiment trends for particular subcategories in the future. Brands can discover many hidden trends in customer sentiments from historical data.
+
+
 
 ---
 
